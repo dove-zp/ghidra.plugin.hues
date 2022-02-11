@@ -7,6 +7,10 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 
 ![Hues in Action](https://i.imgur.com/lMCWPwd.gif)
 
+## Versions
+
+* [9.0.1](https://github.com/dove-zp/ghidra.plugin.hues/tree/9.0.1)
+
 ## License
 
 This project is licensed under the [Apache License 2.0 (Apache-2.0)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)). 
