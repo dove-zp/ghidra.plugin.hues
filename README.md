@@ -1,7 +1,7 @@
 # Ghidra - Plugin
 ## Hues - The Color Plugin
 
-This is a simple plugin which provides different colors to the GHIDRA environment. I made it per a request from [issue #13](https://github.com/NationalSecurityAgency/ghidra/issues/13).
+This is a simple plugin which provides different colors to the GHIDRA environment. I made it per a request of [issue #13](https://github.com/NationalSecurityAgency/ghidra/issues/13).
 
 ## Building
 
