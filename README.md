@@ -5,7 +5,7 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 
 ## Demo
 
-![Hues in Action](https://i.imgur.com/lMCWPwd.gif)
+![Hues in Action](.github/media/images/demo.gif)
 
 ## Versions
 
